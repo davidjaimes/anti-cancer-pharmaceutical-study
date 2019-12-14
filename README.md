@@ -6,8 +6,26 @@ As their Chief Data Analyst, you've been given access to the complete data from 
 
 To do this you are tasked with:
 
+### Tumor Volume Over Time
+
 * Creating a scatter plot that shows how the tumor volume changes over time for each treatment.
+
+![treatment](images/treatment.png)
+
+### Site Changes Over Time
+
 * Creating a scatter plot that shows how the number of metastatic (cancer spreading) sites changes over time for each treatment.
-* Creating a scatter plot that shows the number of mice still alive through the course of treatment (Survival Rate)
+
+![spread](images/spread.png)
+
+### Mice Survival Rates
+
+* Creating a scatter plot that shows the number of mice still alive through the course of treatment (Survival Rate).
+
+![survival](images/survival.png)
+
+### Percent Tumor Volume Across 45 Days
+
 * Creating a bar graph that compares the total % tumor volume change for each drug across the full 45 days.
-* Include 3 observations about the results of the study. Use the visualizations you generated from the study data as the basis for your observations.
+
+![change](images/change.png)
